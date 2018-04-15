@@ -5,6 +5,11 @@
 * Python 3
 * Azure storage account
 
+## Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
 ## Requeue all messages located in poison queue
 
 Using connection string:
